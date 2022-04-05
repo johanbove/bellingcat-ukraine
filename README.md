@@ -1,0 +1,8 @@
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkaWQ6ZXRocjoweDhkMThCNUIyNzhGZUQzMTExMDQwMDgzOTNBMERhMkVDZkE2ZTcxNDYiLCJpc3MiOiJ3ZWIzLXN0b3JhZ2UiLCJpYXQiOjE2NDc3MjY1NDAwODksIm5hbWUiOiJwYy0xIn0.rPKrS4pVC1aWiBQ_EsTOaL7EcfdVZfv_LAb6m32ZbrM
+
+
+C:\Users\johan\Projects\IPFS\presence\_site
+
+
+C:\Users\johan\Projects\IPFS\web3-storage-quickstart> 
+
