@@ -69,7 +69,7 @@ node C:\Users\johan\Projects\IPFS\web3-storage-quickstart\put-files.js --token=%
 ECHO %me%: Publishing to IPNS key %ipfskeyName% ... >> %log%
 ipfs name publish --key=%ipfskeyName% %ipfshash% >> %log%
 
-ECHO %me%: Done! Check the log curl-to-ipfs.log for details.
+ECHO %me%: Done! Check the log %log% for details.
 
 :: Thank you https://stackoverflow.com/a/11479359
 :: Set filesize of first argument in %size% variable, and return
