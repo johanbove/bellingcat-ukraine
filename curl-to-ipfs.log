@@ -4431,3 +4431,18 @@ curl-to-ipfs: Publishing to IPNS key bellingcat_ukraine ...
 --- 
 curl-to-ipfs: 30/01/2023  5:47:04,57 started... 
 file 1 size is 0 
+--- 
+curl-to-ipfs: 03/02/2023  9:40:31,35 started... 
+file 1 size is 305689 
+file 2 size is 3112 
+file 3 size is 493427 
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+CID: QmVDX45uyWyM2JfRCN1s7Mn26RHX1TLLvBZHWxZv6C7fLG 
+https://bafybeidgfyldbdkhumguj5vkwaqembb2jcdjc3tn6ykut6rbe63itmjuwu.ipfs.dweb.link 
+curl-to-ipfs: Pinning... 
+pinned QmVDX45uyWyM2JfRCN1s7Mn26RHX1TLLvBZHWxZv6C7fLG recursively
+Uploading 8 files
+Content added with CID: bafybeidg5u3t2ffiksr6f5izj5t5ko5mpdja5xino7ik46a2vvtfxlnqci
+curl-to-ipfs: Publishing to IPNS key bellingcat_ukraine ... 
