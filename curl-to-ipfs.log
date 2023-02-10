@@ -4478,3 +4478,33 @@ pinned QmeMKrE3oSqbVGPV2wussLtd8g89GMawKi2h3AAYvfbT7k recursively
 Uploading 8 files
 Content added with CID: bafybeid4ww2dbrm3tkhkxqnuyxbe2fr63tcgdidhkqhrcw7h2urbr5k2oa
 curl-to-ipfs: Publishing to IPNS key bellingcat_ukraine ... 
+--- 
+curl-to-ipfs: 10/02/2023  5:45:00,89 started... 
+file 1 size is 314549 
+file 2 size is 3112 
+file 3 size is 504278 
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+CID: QmVc1YDv3CGM6svzBWByFCKP37MkSQkAtmLGak4WAKG1eq 
+https://bafybeidl6ejj4hnklnelrdpw6vptrc7cfxb2mzjgf67r2slsissunh6mni.ipfs.dweb.link 
+curl-to-ipfs: Pinning... 
+pinned QmVc1YDv3CGM6svzBWByFCKP37MkSQkAtmLGak4WAKG1eq recursively
+Uploading 8 files
+Content added with CID: bafybeigolcq4vjsasx4hp2afxvjl4t2rd7ockbmyrv5ie2jwgv7gjc4f3y
+curl-to-ipfs: Publishing to IPNS key bellingcat_ukraine ... 
+--- 
+curl-to-ipfs: 10/02/2023 20:42:56,44 started... 
+file 1 size is 314840 
+file 2 size is 3112 
+file 3 size is 504826 
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+CID: QmcpN2LXpGgbtmBkC3utkg2y6tgLDWtYY8rBuhLzR2eLWv 
+https://bafybeigxdubvrkfrrgwtqge3btdv66jefh7ndym6znywvyvv3iw4vcyybm.ipfs.dweb.link 
+curl-to-ipfs: Pinning... 
+pinned QmcpN2LXpGgbtmBkC3utkg2y6tgLDWtYY8rBuhLzR2eLWv recursively
+Uploading 8 files
+Content added with CID: bafybeiajkgnaasgr6j4t52axrweylxvsph3iai6brnwohafk6ifnioq5oq
+curl-to-ipfs: Publishing to IPNS key bellingcat_ukraine ... 
