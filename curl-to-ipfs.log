@@ -4966,3 +4966,17 @@ curl-to-ipfs: Pinning...
 Uploading 8 files
 Content added with CID: bafybeifahnqagtnxwe3tfsb5epk53emldhv7hofrbitn5auqzxs2f6z2ze
 curl-to-ipfs: Publishing to IPNS key bellingcat_ukraine ... 
+--- 
+curl-to-ipfs: 02/04/2023 15:13:46,39 started... 
+file 1 size is 337791 
+file 2 size is 3112 
+file 3 size is 549971 
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+CID: ''; 
+https://'';.ipfs.dweb.link 
+curl-to-ipfs: Pinning... 
+Uploading 8 files
+Content added with CID: bafybeihwazngx3zuy7ww7zasgmh4rmerudtz3tssvtw4xspvgw2krlj42y
+curl-to-ipfs: Publishing to IPNS key bellingcat_ukraine ... 
