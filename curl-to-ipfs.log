@@ -5151,3 +5151,19 @@ Uploading 8 files
 Content added with CID: bafybeigmywzebhjgfjdvbmospmuhmduwktr2k2atm4yql3tyqqkcepbvou
 curl-to-ipfs: Publishing to IPNS key bellingcat_ukraine ... 
 Published to k2k4r8k7lcogpmkq9mkf3ykg1rexvhmxcinz5z91k8v49gbem6ivjp1v: /ipfs/QmVsQBz8TWwx6Vod8TuMkfLauPGxgRrPGmPsY5U8vaMrZa
+--- 
+curl-to-ipfs: 28/05/2023 19:34:01,43 started... 
+file 1 size is 364839 
+file 2 size is 3256 
+file 3 size is 596890 
+        1 file(s) copied.
+        1 file(s) copied.
+        1 file(s) copied.
+CID: QmaUmn6STf3Y84qe7yWMxDEh2gXEauCvMiUJYkcd5zUNFz 
+https://bafybeifumdq5xnkpp5zufwgvnmivefj37it4ouh2ggv4q36igmuxu42gee.ipfs.dweb.link 
+curl-to-ipfs: Pinning... 
+pinned QmaUmn6STf3Y84qe7yWMxDEh2gXEauCvMiUJYkcd5zUNFz recursively
+Uploading 8 files
+Content added with CID: bafybeihm4a7dr3dybroef5vykmztxkqtonzmwul2qqcttpww4sl6ax5fxa
+curl-to-ipfs: Publishing to IPNS key bellingcat_ukraine ... 
+Published to k2k4r8k7lcogpmkq9mkf3ykg1rexvhmxcinz5z91k8v49gbem6ivjp1v: /ipfs/QmaUmn6STf3Y84qe7yWMxDEh2gXEauCvMiUJYkcd5zUNFz
